@@ -24,10 +24,6 @@
 		<groupExpression><![CDATA[$F{campo}]]></groupExpression>
 		<groupHeader>
 			<band height="43" >
-					<reportElement key="groups-header" style="Arial_Normal" x="0" y="10" width="515" height="14" forecolor="#FFFFFF" backcolor="#CCCCCC"/>
-					<graphicElement>
-					</graphicElement>
-				</rectangle>
 				<staticText>
 					<reportElement key="staticText-2" style="Arial_Bold" positionType="Float" x="0" y="11" width="70" height="14" forecolor="#000000"/>
 					<box leftPadding="8">
